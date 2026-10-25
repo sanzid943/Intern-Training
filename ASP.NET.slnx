@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="CFExample/CFExample.csproj" />
   <Project Path="EfCoreExample/EfCoreExample.csproj" Id="1c6dac31-1260-4edf-a7ce-668d47518217" />
+  <Project Path="EfMigrationExample/EfMigrationExample.csproj" />
 </Solution>
